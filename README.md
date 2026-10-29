@@ -22,7 +22,7 @@ Python · Luau · C++ · JavaScript · HTML/CSS · Git · VS Code · Roblox Stud
 
 ## Outside of code
 
-- 🥉 3rd place in Kosovo's national Economics Olympiad 2026, and I competed in the International Economics Olympiad final round in Ancient Olympia, Greece
+- 🥈 2nd place in Kosovo's national Economics Olympiad 2026, and I competed in the International Economics Olympiad final round in Ancient Olympia, Greece
 - Helped organize a programming hackathon for about 25 students at my school
 - Albanian (native), English (fluent), German (learning)
 - Volleyball and swimming
