@@ -11,7 +11,7 @@ I also run **Ardeno**, a small business where we fix anything digital for local 
 | [**Bonk Blocks**](https://github.com/geartt01/bonk-blocks) | My biggest project. A multiplayer Roblox party game: 60 modules, ~13k lines, server-side anti-cheat, saving and unit tests | Luau · Rojo |
 | [**Arduino Robotics**](https://github.com/geartt01/arduino-robotics) | A 3D-printed robotic hand controlled by 5 flex sensors (I presented it at school), plus an ESP32 weather station | C++ · Arduino · ESP32 |
 | [**AI Desktop Widget**](https://github.com/geartt01/ai-desktop-widget) | A small AI assistant that sits on my desktop and runs a local model. My family uses it for work | Python · Ollama |
-| [**Booking Site Templates**](https://github.com/geartt01/booking-site-templates) | The website templates I use for clients: online booking in Albanian, English and German | HTML · CSS · JS |
+| [**Booking Site Templates**](https://github.com/geartt01/booking-site-templates) | The website templates I use for clients: online booking in Albanian, English and German. [Live demo](https://geartt01.github.io/booking-site-templates/) | HTML · CSS · JS |
 | [**Astral Hatchery**](https://github.com/geartt01/astral-hatchery) | A creature-collection Roblox game I'm prototyping: hatching, breeding, trading | Luau · Rojo |
 
 I've also made websites for **FamilyMedKS** (a family medical center) and **Lab Oil**.
