@@ -6,7 +6,7 @@ Based in Kosovo, heading toward **mechanical / aerospace engineering**, with pro
 - 🎮 Building multiplayer Roblox games in Luau with a proper toolchain (Rojo, tests, linting)
 - 🤖 Running AI models locally with Ollama and turning them into tools people actually use
 - 🔧 Programming Arduino and ESP32 projects, from a flex-sensor robotic hand to a weather station
-- 🌐 Building websites and online booking for local businesses with my small web studio, **Ardeno**
+- 🌐 CEO of **Ardeno**: we fix anything digital for local businesses, from websites to online booking
 
 ## Featured projects
 
